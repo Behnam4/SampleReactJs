@@ -1,0 +1,12 @@
+{
+  "name": "SampleReactJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Behnam4/SampleReactJs.git",
+  "author": "Behnam Amiri <amiri.behnam4@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  }
+}
